@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:27 PM 22-05-2026
+#last update time: 03:45:21 PM 22-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/b0/b8/46/13b0b846-6955-4567-b523-bb1073f8402c.png" group-title="FIFA Live", Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=049c8e9c71234f20873a8ad07a981619:2f1dd96ab5988ed8df4bb548c7c53501
+https://du2yfy2plnh46.cloudfront.net/out/v1/b173309160114f7ca57f1d6826f2249a/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720
