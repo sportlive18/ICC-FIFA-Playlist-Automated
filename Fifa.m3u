@@ -1,5 +1,30 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:18 PM 23-05-2026
+#last update time: 06:00:28 PM 23-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ed/cf/ad/d4/edcfadd4-3ad0-4530-91e6-8b24b7fd19a4.png" group-title="FIFA Live", Minija v Tauras | Pirma Lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2895f0e5ffbb3eae8035cbacb12891e7:9338af02cfc80a8adcdac5e923590573
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_32_42_e8835834-469a-489a-b505-214004115b0d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779533340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/83/ae/46/f583ae46-fbaf-4722-9a58-a4354f08e9ca.png" group-title="FIFA Live", Light Stars FC v St. Louis FC | Seychelles Absa Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f9265b021263eeb85de7dd2eeb4fa66:921bd14ff4fb6496be5cd87cbf39e890
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_52_d366f62d-52c9-4ad9-bfbf-ecf3cbb66f70/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/c9/bc/f6/53c9bcf6-cb4b-4fb4-9bca-c870abbb5ee9.png" group-title="FIFA Live", Dukagjini v KFV Prishtina | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc957946c8e036bbba75478d57758445:48cc5e5a3c95468d0c940b2fcafedecc
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_16_29_26_342982a0-2bba-40f0-91c2-57fe3cc688aa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/17/59/15/e4/175915e4-236e-4066-a46d-1a9268dd5b68.png" group-title="FIFA Live", US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab9c94ac642f3b01a5936874ed2e3656:ebf87c82024a068c0035297b8bb18ba5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_38_40_a77482b3-d4ba-4ae2-b9eb-135f34a27b07/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2b/f1/4c/b8/2bf14cb8-dc34-45a7-9640-f2f7f094b2ef.png" group-title="FIFA Live", Foresters FC v Cote D'Or FC | Seychelles Absa Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9016e03541b631e4834db9ce9655f825:3441d81b123a987f6ff448833896d96a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_55_426443ff-4657-408c-9c7e-5a44c5918ae3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940
