@@ -1,20 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:21 AM 23-05-2026
+#last update time: 11:00:25 AM 23-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f8/6c/ea/57/f86cea57-8dbc-4576-bd38-ea569d162a22.png" group-title="FIFA Live", We United FC v Bombers FC | DFA Premier League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/28/ad/df/ba/28addfba-3a5c-4b07-be90-e63b033fb953.png" group-title="FIFA Live", Busan TC v Chuncheon FC | K3 League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85055195c1fd30c7a289b276cdd1951c:142120cd822f3ed193b7bdeb295a0b24
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_28_acf7fe7e-5644-4f6d-b13d-65378654a308/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779490140
+#KODIPROP:inputstream.adaptive.license_key=d4d7c88f55513900a110dec92ff51a9c:2604b1729329cdcd6c2b22cf6db83960
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_29_51_1ab595f5-a4bc-4880-b82a-604ba58f3ab4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779511740
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/45/ce/f7/84/45cef784-b01e-44b3-b4cc-b6bc0953aedd.png" group-title="FIFA Live", Attackers FC v Roaring Lions FC | Anguilla Senior Men's League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/16/65/f7/a5/1665f7a5-0db8-488a-bb3d-3b7852addbeb.png" group-title="FIFA Live", Siheung City v Dangjin Citizen FC | K3 League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd85c47878bf3e68b5624cd636348564:ffbdb3e9292e7aab914ec2fa737402ad
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_46_6b1ee31e-2c1c-4526-9234-5e8f9ca6b3d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779494340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/45/15/eb/464515eb-7866-46bc-89dc-29a88bc6ba6a.png" group-title="FIFA Live", Bubali v RCA | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=978cfe8a60ed37e18694cddcfd1ceb03:291df67fee63caebc94b75fd11d7527e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_02_a5a864f1-f1a9-4f65-8f1b-6f128b2de97f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779495540
+#KODIPROP:inputstream.adaptive.license_key=8d7400650a553cbf8a2e2156514507be:481cd62d0c81e8e26d01e327335ed881
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_29_54_3399f176-c67b-4d8b-b887-3456c6499386/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779511740
