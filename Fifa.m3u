@@ -1,15 +1,40 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:16 PM 24-05-2026
+#last update time: 07:45:18 PM 24-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f7/be/9d/57/f7be9d57-92c5-4a14-99d8-77f08e09279d.png" group-title="FIFA Live", Dirchalish FC v Neftchi PFC | Azerbaijan Women's League 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/c2/92/42/24c29242-d737-42ab-9ad8-2c0e425dfe87.png" group-title="FIFA Live", Civil Service United v Karonga United | FDH Bank Premiership
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34016a18138c3dceb082ad1ce4603d8b:2432b713e7941017cc6ef47fb7dfc68f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_06_56_53_299e3751-6a61-4556-9fcc-b522701c0571/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779616140
+#KODIPROP:inputstream.adaptive.license_key=e662094d2c673ffba7a716ac0401a9bc:42f048baf2b77df844c76500d241ea94
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_12_34deee05-c223-4d4c-aaa8-741a9e6abab7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/13/c6/2b/6213c62b-45f6-4bed-992e-563576a661b1.png" group-title="FIFA Live", FK TransINVEST v FK Gintra | Moterų A lyga 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b6/a3/e1/15/b6a3e115-2b04-414f-b587-761050f64a0e.png" group-title="FIFA Live", MAFCO FC v Chitipa United | FDH Bank Premiership
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9b89e93e48c3284887b069d10e05d8d:ed2ca3243dcc086cf86473cee8f48ff4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_18_86192f41-ba65-4622-83d6-0a4777da648d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779619740
+#KODIPROP:inputstream.adaptive.license_key=9dd7b0d199e0361ba3773af77a596546:64d6d3af7328d5eb1bd900a3deb91c1a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_16_40507774-f400-4a29-8d5d-c5dd45ca6b44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/0a/7b/13/0a0a7b13-16d8-4160-93de-3857b3f5b76a.png" group-title="FIFA Live", Mighty Wanderers v Silver Strikers FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=038d822c42d13349b743e8214b615fd3:cd0778e5b4fb410deabea0b02b4a9c6e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_19_488da2e1-c885-4cd5-8e89-abb96dc4d8b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a4/dc/a6/b9/a4dca6b9-3268-474e-b7b5-8d98a824e69e.png" group-title="FIFA Live", Johor Darul Ta'zim FC II v Imigresen FC II | Liga A1 Semi-Pro 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb2ce879eea13aceb8f8d71034dcf469:0410fba59391f0146f42864ff00775d1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_20_58_9f36224d-0d44-4bbe-aad1-e30110e71912/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Amsa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779626040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ae/f4/17/1b/aef4171b-07e4-4de7-b149-777946048eac.png" group-title="FIFA Live", FC Fassell v Borough FC | LFA First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1aab7e8a3aea3b76bae76acd389e0724:cbcfa1cc69d86633c01b0bfd6ac37080
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_45_de08667c-2686-48dc-947e-900fdf42bcba/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779626940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/7f/51/b4/077f51b4-f607-4f7f-b63a-e94b498e1b8d.png" group-title="FIFA Live", Deportivo La Guaira FC v Caracas FC | Liga FUTVE Femenina 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8e382b262bb3ed89727cbc3e18a066c:a03f1ab0405cf9f30dfc9545c92c6023
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_40_33_5f243f68-e2c9-4560-9a35-9e99156e3a26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779626940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/34/a8/e9/4e34a8e9-20c9-4757-959c-b170cec5294f.png" group-title="FIFA Live", Manzini Sea Birds FC v Nsingizini Hotspurs FC | MTN Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6740c37535ef39b2a16a55f90217b276:2450000c58f17117d2afef7873c631ab
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_17_0f688053-5d8e-473a-9414-8ba1abc27863/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779626940
