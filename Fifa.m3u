@@ -1,5 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:23 PM 24-05-2026
+#last update time: 05:00:22 PM 24-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f7/be/9d/57/f7be9d57-92c5-4a14-99d8-77f08e09279d.png" group-title="FIFA Live", Dirchalish FC v Neftchi PFC | Azerbaijan Women's League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34016a18138c3dceb082ad1ce4603d8b:2432b713e7941017cc6ef47fb7dfc68f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_06_56_53_299e3751-6a61-4556-9fcc-b522701c0571/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779616140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/13/c6/2b/6213c62b-45f6-4bed-992e-563576a661b1.png" group-title="FIFA Live", FK TransINVEST v FK Gintra | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9b89e93e48c3284887b069d10e05d8d:ed2ca3243dcc086cf86473cee8f48ff4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_18_86192f41-ba65-4622-83d6-0a4777da648d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779619740
