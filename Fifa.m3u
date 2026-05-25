@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:25 AM 26-05-2026
+#last update time: 02:30:19 AM 26-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a8/cf/33/f7/a8cf33f7-1e28-48f5-8d83-b6d0e1ea29bc.png" group-title="FIFA Live", ASC Gendrim v ASC Police | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b92711674d39919323d991d509a17e:9b4f2df9d968d12776584c5c8d727d7b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_25_03_a2c9b2fe-179f-4db4-a973-0bb3f4d2d08a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779726840
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/5d/b2/12/385db212-9026-4e43-91ae-6582dae0e2b8.png" group-title="FIFA Live", USFAS v US Bougouba | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
