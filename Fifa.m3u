@@ -1,20 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:16 AM 27-05-2026
+#last update time: 09:15:18 AM 27-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/d2/07/6c/9fd2076c-02e2-4aa9-b5a4-d2125efcb4e8.png" group-title="FIFA Live", Attackers FC v Eagle Claw FC | Anguilla Senior Men's League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/2d/48/89/622d4889-80b4-4284-aeda-de7b4eb0e0e5.png" group-title="FIFA Live", Wotton FC v Bagatelle FC | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2642c6ccfe5c365bbed9291c060edc88:9ad2ee36d07ad17628326a94eb128d16
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_52_76021e7d-2c61-4fff-8abd-d0a0224e2f15/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779832140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/08/4e/f2/6a084ef2-bc7b-4065-ab84-ac620635316c.png" group-title="FIFA Live", UWI Blackbirds v St.Andrew Lions FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b330887bffaa36ee8dcbb09129b760c4:05b41dd2a8750e7cadebc29de47e012e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_07_30_13ad50e8-149b-408b-8cca-6595666c1e19/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779835740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/40/ed/12/72/40ed1272-1b4c-4479-8058-33a46ab16cba.png" group-title="FIFA Live", Mighty Avengers v Middleham United FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e76530233033499986e9d8ce057bd4d:4cdca8d5ac457f1c88524b17dd6342b3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_36_b68101cf-49af-496c-9d9d-6f76b7643bf1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779835740
+#KODIPROP:inputstream.adaptive.license_key=dfc3d04347163265a6916000158424ad:fde2c7c99686168a3acf21b4eded1db8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_12_23_18_8c57ac9d-19f3-46e1-9760-84b66d28aa27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779842940
