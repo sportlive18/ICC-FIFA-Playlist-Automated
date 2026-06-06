@@ -1,8 +1,8 @@
 #EXTM3U
-#DATE:- 06-06-2026 17:00
+#DATE:- 06-06-2026 19:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="047e78d3-3876-4e2b-a3bd-fdcadb7706c8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/nhksamtckehf7hdqiav8" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: Netherlands v Scotland
+#EXTINF:-1 tvg-id="b56ef95b-201e-4f19-ad2f-90b4ec718825" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yqdwbasgjy3zwpvbpfwn" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: New Zealand v Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -11,8 +11,8 @@
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780764312~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=75562ed5758c31c306495a6cd9d5faaa60025774d30a419258d8548801a1ed62/manifest.mpd?vcfilter=047e78d3-3876-4e2b-a3bd-fdcadb7706c8&powered_by=jay_shree_ram
-#EXTINF:-1 tvg-id="54315116-8ac5-4b96-8432-48ad942ca9a7" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xydfpgvtjqmoompot9cs" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: South Africa v Ireland
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1780782307~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5b6fd453b5ac73999a35ffd05b994160fff915d792c02836ca61bc6b2290bff2/manifest.mpd?vcfilter=b56ef95b-201e-4f19-ad2f-90b4ec718825&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="086fc2c9-6ff4-4135-be0a-029a6094a05d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qzxglffgvyfx0lpjvbv9" tvg-lang="English" group-title="Cricket",English | WT20 Warm-Ups: Sri Lanka v Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -21,4 +21,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1780764308~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6558f14e308a886a1d459ec3b2c625867378c74a7fba83f6177773093cc85306/manifest.mpd?vcfilter=54315116-8ac5-4b96-8432-48ad942ca9a7&powered_by=jay_shree_ram
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1780782311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=122e249e2fca75231aa419a307fe6aa5d099aff5bd104776246974d04f5ce8b2/manifest.mpd?vcfilter=086fc2c9-6ff4-4135-be0a-029a6094a05d&powered_by=jay_shree_ram
